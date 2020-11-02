@@ -29,7 +29,7 @@
 	</div>
 	
 	<div class="container mt-3">
-	<h1 class="bg-primary text-primary">Lorem ipsum dolor.</h1>
+	<h1 class="bg-primary text-dark">Lorem ipsum dolor.</h1>
 	<h1 class="bg-success">Expedita in minus!</h1>
 	<h1 class="bg-info">Deleniti non amet.</h1>
 	<h1 class="bg-warning">Ea numquam voluptatum.</h1>
